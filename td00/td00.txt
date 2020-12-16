@@ -1,0 +1,2 @@
+Exercice 1. Introduction à Maven
+rappel : Sous windows ls == dir
